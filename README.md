@@ -150,7 +150,3 @@ Set up MySQL on production server. Ensure secure credential management.
 2. Submit a pull request with a clear description.
 3. Follow coding conventions and add tests where appropriate.
 4. For large changes, open an issue for discussion first.
-
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
